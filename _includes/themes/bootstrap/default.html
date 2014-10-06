@@ -9,6 +9,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="{{ ASSET_PATH }}/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/resources/material/css/material-wfont.min.css" rel="stylesheet">
+    <link href="{{ ASSET_PATH }}/resources/material/css/ripples.min.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/syntax-monokai-light.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet">
@@ -52,7 +54,7 @@
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           <span class="pull-right text-muted">
             powered by
-            <a href="http://sentenza.github.io/jekyll-material-design" target="_blank" title="Jekyll-Bootstrap3 Blogging Framework flavoured with Material Design">Jekyll-Bootstrap</a>
+            <a href="http://sentenza.github.io/jekyll-material-design" target="_blank" title="Jekyll-Bootstrap3 Blogging Framework flavoured with Material Design">Jekyll-Material-Design</a>
           </span>
         </p>
       </footer>
@@ -61,5 +63,7 @@
     {% include JB/analytics %}
     <script src="{{ ASSET_PATH }}/resources/jquery/jquery-2.1.1.min.js"></script>
     <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/resources/material/js/ripples.min.js"></script>
+    <script src="{{ ASSET_PATH }}/resources/material/js/material.min.js"></script>
   </body>
 </html>
