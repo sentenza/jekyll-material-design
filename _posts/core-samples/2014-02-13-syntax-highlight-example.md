@@ -6,6 +6,9 @@ tags : [jekyll, code]
 ---
 {% include JB/setup %}
 
+An example post about code insertion into posts.
+
+<!--more-->
 ## Testing code snippet highlight
 
 The following example shows how to highlight a piece of code throughout the use of pygments:
