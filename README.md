@@ -1,8 +1,7 @@
 Jekyll Material Design 
 ======================
 
-Publish your static website/blog on GitHub Pages using Jekyll and Bootstrap 3, 
-creating your *"materialized"* blog using GitHub Pages easily.
+Publish your static website/blog on GitHub Pages using Jekyll and Bootstrap 3 with a *"materialized"* style.
 
 This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-bootstrap-3) and 
 [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design). It includes also the [Paper theme](http://bootswatch.com/paper) from [Bootswatch.com](http://bootswatch.com).
