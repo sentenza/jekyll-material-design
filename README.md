@@ -25,6 +25,9 @@ This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-boot
 
 For original project's usage and documentation please see the Wiki of this project.
 
+## Demo
+
+Visit [jekyll-material-design](https://sentenza.github.io/jekyll-material-design) on GitHub Pages
 
 ## License
 
