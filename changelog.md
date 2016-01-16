@@ -5,6 +5,12 @@ Incremental version bumps that were not released publicly are nested where appro
 
 P.S. If there is a standard (popular) changelog format, please let me know.
 
+- **0.3.0 : 2014.10.09**
+    - **Features**
+    - Update twitter bootstrap to 3.2.0.
+    - Added Bootstrap Paper theme
+    - Added Material design
+
 - **0.3.0 : 2013.02.24**
     - **Features**
     - Update twitter bootstrap to 2.2.2. Add responsiveness and update design a bit.
