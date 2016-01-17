@@ -9,6 +9,8 @@ This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-boot
 
  - [Jekyll intro](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/10/jekyll-intro)
  - [How to test your new website locally](http://sentenza.github.io/lessons/2016/01/17/testing-locally/)
+ - [Build a blog with Jekyll](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
+ - [It's Called Jekyll, and It Works](https://developmentseed.org/blog/2013/10/24/its-called-jekyll/)
  - [Syntax Highlight Example](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/13/syntax-highlight-example)
 
 ## Usage
@@ -40,6 +42,10 @@ For original project's usage and documentation please see the Wiki of this proje
 ## Demo
 
 Visit [jekyll-material-design](https://sentenza.github.io/jekyll-material-design) on GitHub Pages
+
+## Further resources
+
+- [Prose.io](http://prose.io/#about), *a web-based content editor specifically designed to make it simple for content creators to publish to Jekyll*
 
 ## License
 
