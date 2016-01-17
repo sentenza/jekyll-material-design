@@ -24,8 +24,15 @@ This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-boot
     $ git remote set-url origin git@github.com:USERNAME/USERNAME.github.io.git
     $ git push origin master  
   </code>
-</pre>  
-### 3. Enjoy !
+</pre> 
+
+### 3. Edit your website configuration
+
+Edit `_includes/themes/bootstrap/` to change information about your new website and also to remove the GitHub red ribbon ([default.html#26](https://github.com/sentenza/jekyll-material-design/blob/master/_includes/themes/bootstrap/default.html#L26)).
+
+Please, take a look at [Jekyll intro](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/10/jekyll-intro) to understand how GitHub and Jekyll work together to serve your pages.
+
+### 4. Enjoy !
 - After giving 10 mins to GitHub of course.  
 
 For original project's usage and documentation please see the Wiki of this project.
