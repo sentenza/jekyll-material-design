@@ -5,9 +5,20 @@ Incremental version bumps that were not released publicly are nested where appro
 
 P.S. If there is a standard (popular) changelog format, please let me know.
 
+- **0.5.0 : 2016.01.17**
+   - **Bug fixes**
+   - Removed [FezVrasta/bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) (no more needed)
+   - Fixed `<hr>` duplication on index template
+   - Removed unnecessary CSS and JS files
+   - **Features**
+   - Update to Twitter Bootstrap v3.3.6
+   - Update Bootswatch paper theme
+   - Update to jQuery v2.2.0
+   - Added [Github ribbon](https://github.com/blog/273-github-ribbons)
+
 - **0.4.0 : 2014.10.09**
     - **Features**
-    - Update twitter bootstrap to 3.2.0.
+    - Update to Twitter Bootstrap 3.2.0.
     - Added Bootstrap Paper theme
     - Added Material design
 
