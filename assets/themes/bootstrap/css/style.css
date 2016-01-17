@@ -1,3 +1,8 @@
+/*Font size*/
+body {
+  font-size: 16px;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;

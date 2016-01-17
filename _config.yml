@@ -11,13 +11,13 @@ excerpt_separator: "<!--more-->"
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : John Doe Website
+title : Jekyll Bootstrap3
 tagline: Site Tagline
 author :
-  name : John Doe
-  email : john.doe@gitmail.org
-  github : johndoe
-  twitter : johndoe
+  name : Jekyll Bootstrap3
+  email : jekyll.bootstrap3@gitmail.org
+  github : sentenza
+  twitter : sentenza
   feedburner : johndoefeedname
 
 # The production_url is only used when full-domain names are needed
