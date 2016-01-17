@@ -3,6 +3,11 @@ body {
   font-size: 16px;
 }
 
+/*Blog entries*/
+div.blog-entries p img {
+  max-width: 750px;
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
