@@ -5,6 +5,9 @@ Publish your static website/blog on GitHub Pages using [Jekyll](https://jekyllrb
 
 This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-bootstrap-3). It also includes the [Paper theme](http://bootswatch.com/paper) from [Bootswatch.com](http://bootswatch.com).
 
+![Jekyll-material-design Thumbnail](https://github.com/sentenza/jekyll-material-design/blob/master/assets/images/jekyll-bootstrap.png "Jekyll material design default theme")
+
+
 #### How it works
 
  - [Jekyll intro](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/10/jekyll-intro)
@@ -37,7 +40,7 @@ Please, take a look at [Jekyll intro](http://sentenza.github.io/jekyll-material-
 ### 4. Enjoy !
 - After giving 10 mins to GitHub of course.  
 
-For original project's usage and documentation please see the Wiki of this project.
+For original project's usage and documentation please see the [Wiki of this project](https://github.com/sentenza/jekyll-material-design/wiki).
 
 ## Demo
 
