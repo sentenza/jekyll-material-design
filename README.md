@@ -5,6 +5,12 @@ Publish your static website/blog on GitHub Pages using [Jekyll](https://jekyllrb
 
 This project is based on [Jekyll-Bootrap-3](https://github.com/dbtek/jekyll-bootstrap-3). It also includes the [Paper theme](http://bootswatch.com/paper) from [Bootswatch.com](http://bootswatch.com).
 
+#### How it works
+
+ - [Jekyll intro](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/10/jekyll-intro)
+ - [How to test your new website locally](http://sentenza.github.io/lessons/2016/01/17/testing-locally/)
+ - [Syntax Highlight Example](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/13/syntax-highlight-example)
+
 ## Usage
 
 ### 1. Create a Repo
