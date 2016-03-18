@@ -4,7 +4,7 @@ permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
-markdown: redcarpet
+markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 
