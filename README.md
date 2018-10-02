@@ -37,6 +37,32 @@ Edit `_includes/themes/bootstrap/` to change information about your new website 
 
 Please, take a look at [Jekyll intro](http://sentenza.github.io/jekyll-material-design/lessons/2014/02/10/jekyll-intro) to understand how GitHub and Jekyll work together to serve your pages.
 
+### 4. Testing your website locally
+
+To construct and test your site locally, go into the directory and
+type
+
+    jekyll build
+
+This will create (or modify) a `_site/` directory, containing
+everything from `assets/`, and then the `index.md` and all
+`pages/*.md` files, converted to html. (So there'll be
+`_site/index.html` and the various `_site/pages/*.html`.)
+
+Type the following in order to &ldquo;serve&rdquo; the site.
+This will first run `build`, and so it does _not_ need to be
+preceded by `jekyll build`.
+
+    jekyll serve
+
+To make jekyll automatically re-build your changes you can also add the `--watch` option:
+
+    jekyll serve --watch
+
+Now open your browser and go to <http://localhost:4000>.
+
+Read the complete tutorial on <http://jekyllrb.com/docs/usage/>.
+
 ### 4. Enjoy !
 - After giving 10 mins to GitHub of course.  
 
